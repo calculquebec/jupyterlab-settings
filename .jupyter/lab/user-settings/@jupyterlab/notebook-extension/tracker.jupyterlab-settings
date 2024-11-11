@@ -1,0 +1,12 @@
+{
+    "codeCellConfig": {
+        "lineHeight": 1.5,
+        "lineNumbers": true,
+    },
+
+    "kernelShutdown": true,
+
+    "markdownCellConfig": {
+        "lineHeight": 1.5,
+    }
+}
